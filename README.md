@@ -1,2 +1,2 @@
 # agronaija
-Just a ci/cd training video
+Just a ci/cd training project for my audience
